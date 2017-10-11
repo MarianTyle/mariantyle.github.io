@@ -10,7 +10,7 @@ body {
 	display:flex;
 	flex-direction:column;
 	align-content:center;
-	font-family:Consolas;
+	font-family: 'Source Code Pro', monospace;
 	color:white;
 	overflow:hidden;
 }
